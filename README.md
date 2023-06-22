@@ -14,5 +14,5 @@ Execute "docker run -d --name <any_name_here> -p 5000:5000/tcp flaskapp"
 
 # From website to test implementation
 Go to: "172.17.0.1:5000" on your web browser while both freeradius and Flaskapp is running
-Type in "Matthew" and "secretofsecrets" for username and password
+Type in <yourusername> and <yourpassword> for username and password
 Success!
